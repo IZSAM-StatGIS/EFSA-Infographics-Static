@@ -4,7 +4,7 @@ Infografiche statiche e sorgenti per StoryMaps EFSA.
 # Struttura del repository
 
 per le infografiche statiche di ogni StoryMap è presente una cartella dedicata (SM-[Nome]), organizzata secondo la struttura di sottocartelle schematizzata di seguito. 
-La cartella "sources" contiene i sorgenti dei progetti delle diverse infografiche, mentre le cartelle "release-DD-MM-YYYY" contengono i soli output png. Le release corrispondono alle scadenze previste dal time sheet di EFSA.
+La cartella *sources* contiene i sorgenti dei progetti delle diverse infografiche, mentre le cartelle *release-DD-MM-YYYY* contengono i soli output png. Le date delle release (*DD-MM-YYYY*) corrispondono alle scadenze previste dal time sheet di EFSA.
 
 ```
 SM-Campylobacter
